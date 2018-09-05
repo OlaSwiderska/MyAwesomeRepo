@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/profile-org-name/repo-name/tree/master.svg?style=svg)](https://circleci.com/gh/profile-org-name/repo-name/tree/master)
+[![CircleCI](https://circleci.com/gh/OlaSwiderska/MyAwesomeRepo/tree/master.svg?style=svg)](https://circleci.com/gh/OlaSwiderska/MyAwesomeRepo/tree/master)
 
 ## Welcome to GitHub Pages
 
