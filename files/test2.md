@@ -54,8 +54,7 @@ accedere vultus se haec Lacon nunc legit satus frons.
 ## Nunc pericula
 
 India levis visus fovebat supposita *constitit*: in, aede Eumelique diversa
-hostis loco nisi, vini pacem, puppe. Que [pulcherrima
-artus](http://estopus.io/nec.html) favent hebeti.
+hostis loco nisi, vini pacem, puppe. 
 
     if (gigabyte(method, raw_piracy_progressive) == subdirectoryLeafAccess) {
         contextualEcc = router_gigabyte(radcab_pop_clock);
