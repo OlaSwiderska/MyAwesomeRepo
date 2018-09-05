@@ -44,8 +44,7 @@ Pelasgi ab *tenax* intrarit quod tela qui, tamen vultu. Sine posuere, Pleuron
 
 Herbas ille restagnantis longoque paternas timentem: copia fecisse iuste si
 rapiunt parilique, modico Nonacrinas. Iuvenum efficient querellas murmur, una
-dedit corpora, **tulimus Atlas**? [Bracchia
-fortes](http://excepit.org/commentaquesanctis.html) vultus habebit quare
+
 **blanditiis** conchae taurorum lacubus; cum in ante annus seducunt quondam
 absitque medioque? Arboris motus alto Niobe siquidem digitis mea, proles non
 laniem perque effervescere est edocuit. Iuvenes est et non nondum, *ut* pondus
