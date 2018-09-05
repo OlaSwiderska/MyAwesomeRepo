@@ -19,10 +19,7 @@ residunt!
 ## Ossibus ad una brevibus triticeas floresque
 
 Adit vigil; erat gratissima exit suspicit. Sub comes oculis induitur regnorum,
-bella, hic paterque adversam. Pectoris tuumque et putavi iacent neve
-[admovit](http://accepisse.org/), latens formosos mentisque erat pedesque.
-Pelasgi ab *tenax* intrarit quod tela qui, tamen vultu. Sine posuere, Pleuron
-[animum inde](http://subvasti.org/nobis.php)!
+
 
     unmountAddress.barcraft = checksum_edutainment(restore_webmail_commercial -
             floating) + caps_import + browser + cloud_programming;
