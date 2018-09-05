@@ -15,7 +15,7 @@ jobs:
       - run:
           name: run links tests
           command: |
-            awesome_bot -f README.md,files/test1.md,files/test2.md,files/images1.md,images/file1.md --allow-dupe --allow-redirect --base-url https://github.com/OlaSwiderska/MyAwesomeRepo/blob/$CIRCLE_BRANCH/ --white-list http://documentup.com/profile-org-name/repo-name,https://circleci.com/gh/profile-org-name/repo-name,https://circleci.com/gh/profile-org-name/repo-name/tree/master.svg?style=svg,https://github.com/OlaSwiderska/MyAwesomeRepo/blob/master/src,https://github.com/OlaSwiderska/MyAwesomeRepo/blob/master/url
+            awesome_bot -f README.md,test1.md,test2.md,images1.md --allow-dupe --allow-redirect --base-url https://github.com/OlaSwiderska/MyAwesomeRepo/blob/$CIRCLE_BRANCH/ --white-list http://documentup.com/profile-org-name/repo-name,https://circleci.com/gh/profile-org-name/repo-name,https://circleci.com/gh/profile-org-name/repo-name/tree/master.svg?style=svg,https://github.com/OlaSwiderska/MyAwesomeRepo/blob/master/src,https://github.com/OlaSwiderska/MyAwesomeRepo/blob/master/url
 workflows:
    version: 2
    commit:
