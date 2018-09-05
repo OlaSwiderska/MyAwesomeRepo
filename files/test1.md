@@ -4,8 +4,7 @@
 ## Absistite sisti et ceditis quamquam blanditiasque illuc
 
 Lorem markdownum tertius; ei nec Iliaden errat eadem mei! Pedes formaene amans
-est cursu pedibusve Padumque saepe. Cum mixtaeque maturo [quamquam
-matres](http://www.nempeanimus.net/tenetverbere), se vasta facietque dederat
+est cursu pedibusve Padumque saepe. Ce vasta facietque dederat
 quas quid saltem perlucentibus.
 
     if (45 + express < mashup_mamp_bank) {
@@ -40,7 +39,7 @@ restabat ligamina parentis in quam, quis. Et requiemque ne posse terrae. Sparte
 leges nec loquenti verba, perdidimus: ventis mutata? Ac **Olympi ultro** ferro
 Hesperium salicta hac: versus nec sine nituntur caelum.
 
-> Cupidine cunctosque unda flatuque partitas [Phoebus](http://conplexus.io/) ubi
+> Cupidine cunctosque unda flatuque partitas 
 > fuit summissoque quis: abeunt. Undis rivos scire venenis mea Minoe, ut ante
 > apertum. Est movet fit qui uni scelus redderet volentem spicula terque,
 > tympana mersit, vestibus opis queruntur removi? Oscula frui latet fecit animam
