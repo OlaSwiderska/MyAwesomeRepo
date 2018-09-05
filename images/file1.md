@@ -1,4 +1,4 @@
-[Click](files/test1.md)
+[Click](test1.md)
 
 # Absolvere quiete probabo
 
