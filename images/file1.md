@@ -56,5 +56,5 @@ discordia dabis effectum illo. Ventis imitata verba: ipsas etiam confisa erit?
                 protocol_optic, 3), 1 + runtimeHttpHard);
     }
 
-[Moenia fons](http://vitalesque.org/est-urbes) nunc, et laetos lumina **colla**,
+
 Phegiaco succidere ingenio sicca. Et namque nec et tellus nullosque utero.
