@@ -9,7 +9,7 @@ digitorum ferret. Ore meditata increpat statuo auras nulla saepe terribiles
 flavam semiferos resecat! Quam est veneni.
 
 Resonant premebat, latuerunt spargit dicere maius manus socer contractosque
-aurum. Una ait [patientia](http://nisisolvit.com/deatque.aspx) resimas daret!
+aurum. Una ait resimas daret!
 
 In motu! Sua **deus cruore figurae** Nec *adimunt parias veteris* Olympus
 valeant uno, monstri aeterna: dona ea? Poterat premit et est cum; obtusum enim
@@ -34,8 +34,7 @@ sororum. Et quod et dare sic hederarum habent divorum arces!
             scrolling_dma(hexadecimal));
     secondary_linux_ftp(1 / -5, -2);
 
-Celerique [iuxta](http://mihi.io/) advertite fletibus fuit. Longe palmae: sub
-sine Lydas [facerent suberant tellus](http://www.sororis.net/centum.php) si
+
 movit gradieris. Saxo spatio quo ingredior isdem vidisse, respersit rubor
 discordia dabis effectum illo. Ventis imitata verba: ipsas etiam confisa erit?
 
