@@ -1,4 +1,4 @@
-[Learn more here](test12.md)
+[Learn more here](test2.md)
 
 # Colla illis est laudat receptis ante laborum
 
@@ -39,7 +39,7 @@ ipse. Tanto foedera gladios furit, simulacraque amoris hospita primo Idas. Est
 vultum tua cetera claro exemit. Patent *vitae et* funera probavit dederat
 testor?
 
-Tale aliter [tendere](http://dolentiipse.net/) agitque cortice, si atque,
+agitque cortice, si atque,
 sparsumque ratae ibant undique patienda. Freta patriam venientis advertite
 femineae in tetigit terras **inmemores** bella terra subit tu pigris haurit
 speciem ferox vulnere, nec. In Iris tamen *tuis matrem nebulis* ubi brevissimus
